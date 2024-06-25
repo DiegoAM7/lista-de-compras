@@ -1,0 +1,23 @@
+Pizza Todas las Carnes
+
+Lista de Compras
+
+- Harina de trigo
+- Levadura
+- Azúcar
+- Sal
+- Aceite de oliva
+- Salsa de tomate
+- Ajo
+- Orégano seco
+- Albahaca seca
+- Pimienta negra
+- Pepperoni
+- Salchicha italiana
+- Jamón
+- Tocino
+- Carne molida
+- Pollo
+- Salame
+- Queso mozzarella
+- Queso parmesano
