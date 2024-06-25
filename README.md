@@ -2,6 +2,6 @@
 
 Creado para ejercitar la colaboración en GitHub, con el uso de ramas y merge.
 
-Reposirotio correspondiente al grupo 5
+Repositorio correspondiente al grupo 5
 
 > Commit de Felipe Richter
